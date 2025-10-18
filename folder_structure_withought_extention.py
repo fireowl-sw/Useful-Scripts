@@ -35,5 +35,5 @@ def show_filenames_without_extensions(directory_path, excluded_extensions=None):
 # Example usage:
 if __name__ == "__main__":
     # Example 1: Show all files in a directory without extensions
-    directory = "/Users/fireowl/Downloads/PolyuStudy/S1_05_EE535_MaintenanceandReliabilityEngineering_Semester1/class source"
+    directory = "/Users/fireowl/Downloads/PolyuStudy/S1_04_EE546_ElectricEnergyStorageandNewEnergySourcesforElectricVehicles_Semester1"
     show_filenames_without_extensions(directory)
